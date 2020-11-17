@@ -1,0 +1,27 @@
+.widgets{
+    flex:0.3;
+}
+.widgets_input{
+    display: flex;
+    align-items: center;
+    background-color: var(--twitter-background);
+    padding: 10px;
+    border-radius: 15px;
+    margin-top:10px;
+    margin-left: 10px;
+}
+
+.widgets_input input{
+    border: none;
+    background-color: var(--twitter-background);
+}
+
+.widgets_search{
+    color:rgb(207, 183, 183);
+}
+.widgets_widgetcontainer{
+    margin-top:15px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: rgb(174, 209, 219);
+}
